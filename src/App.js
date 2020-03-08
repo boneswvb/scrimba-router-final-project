@@ -9,8 +9,10 @@ function App() {
   return (
     <div>
       <nav>
-          <p>Home</p>
-          <p>Products</p>
+      	<ul>
+          <li>Home</li>
+          <li>Products</li>
+          </ul>
       </nav>
     </div>
   )
